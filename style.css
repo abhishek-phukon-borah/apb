@@ -3,7 +3,7 @@ body{
     color: whitesmoke;
 }
 .player{
-width:6px; 
+width:auto; 
     height: 95vh; 
     display: flex;
     align-items: center;
