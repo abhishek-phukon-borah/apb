@@ -28,22 +28,22 @@ const music_list = [
         music : 'music/stay.mp3'
     },
     {
-        img : 'images/fallingdown.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        img : 'images/choolo.jpg',
+        name : 'Choo lo',
+        artist : 'Local train',
+        music : 'music/choolo.mp3'
     },
     {
-        img : 'images/faded.png',
-        name : 'Faded',
-        artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        img : 'images/passori.png',
+        name : 'Passori',
+        artist : 'Ali sethi & Shae Gill',
+        music : 'music/passori.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        img : 'images/rait.jpg',
+        name : 'Rait Zara Si',
+        artist : 'Arijit Singh',
+        music : 'music/rait.mp3'
     }
 ];
 
