@@ -11,9 +11,9 @@ body{
 }
 .center {
   display: block;
-    height: 160px;
-    width: 160px;
-    border: 2px solid #fff;
+    height: 60px;
+    width: 60px;
+    
   margin-left: auto;
   margin-right: auto;
   width: 50%;
