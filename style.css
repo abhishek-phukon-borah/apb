@@ -9,6 +9,12 @@ body{
     flex-direction: column;
     justify-content: center;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .wrapper{
     border: 1px solid transparent;
     padding: 30px;
