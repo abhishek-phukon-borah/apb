@@ -12,11 +12,11 @@ body{
 .center {
   display: block;
     
-    height: 60px;
-   
+    height: 6px;
+   width: auto;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  
 }
 .wrapper{
     border: 1px solid transparent;
