@@ -21,12 +21,7 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
-    {
-        img : 'images/stay.png',
-        name : 'Stay',
-        artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
-    },
+    
     {
         img : 'images/choolo.jpg',
         name : 'Choo lo',
@@ -34,10 +29,16 @@ const music_list = [
         music : 'music/choolo.mp3'
     },
     {
-        img : 'images/passori.png',
+        img : 'images/passori.jpg',
         name : 'Passori',
         artist : 'Ali sethi & Shae Gill',
         music : 'music/passori.mp3'
+    },
+    {
+        img : 'images/stay.png',
+        name : 'Stay',
+        artist : 'The Kid LAROI, Justin Bieber',
+        music : 'music/stay.mp3'
     },
     {
         img : 'images/rait.jpg',
