@@ -3,13 +3,13 @@ body{
     color: whitesmoke;
 }
 .player{
-    
+    height: 95vh; 
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
-   height: 260px; //or however you want it
-   width:auto; //so that the image ratio stays the same
+   
+   
 }
 .center {
   display: block;
